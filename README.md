@@ -1,0 +1,2 @@
+# BGVARstudy.com
+blog
